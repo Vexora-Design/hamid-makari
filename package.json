@@ -1,0 +1,11 @@
+{
+  "name": "hamid-makari-personal-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static Persian personal website, optimized for GitHub Pages",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npx serve build"
+  }
+}
